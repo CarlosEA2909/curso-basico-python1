@@ -23,3 +23,5 @@ elif edad < 0 :
     print("Ni que fueras viajero del tiempo")
 else: 
     print("No puedes llevarte esos cigarros")
+
+    #EN PYTHON NO HAY SWITCH CASE
