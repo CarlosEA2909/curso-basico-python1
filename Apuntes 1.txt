@@ -1,0 +1,8 @@
+La alta disponibilidad es la gran caracteristica de la nube
+Eslaticidad: es Automatica es cuando se necesita en los servidores en la nuve
+Escalabilidad vertical: Es manual incremento de capacidad de computo agregando ma grnade
+Escalabilidad horizontal: Es clonar el mismo recurso que ya tienes
+CAPEX es cuando tu compras los servidores y son tuyos se apalanca con la nube privada
+SUB
+RECURSOS
+region
