@@ -2,7 +2,7 @@
 
 En este curso aprenderas a programar en Python
 
-![Logo Python]([imagenes\Logo-Pyrthon2.png](https://github.com/CarlosEA2909/curso-basico-python1/blob/main/imagenes/Logo-Pyrthon2.png))
+![Logo Python](https://github.com/CarlosEA2909/curso-basico-python1/blob/main/imagenes/Logo-Pyrthon2.png)
 
 **REQUISITOS**
 
